@@ -1,7 +1,10 @@
 # This program allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator.
 
-user = input("What is your name?")
+user = input("What is your name? ")
 print("Hello " + user)
+
+age = input("How old are you? ")
+print("You are old")
 
 import math
 
