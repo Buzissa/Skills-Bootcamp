@@ -1,5 +1,8 @@
 # This program allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator.
 
+user = input("What is your name?")
+print("Hello " + user)
+
 import math
 
 print ("investment - to calculate the amount of interest you'll earn on your investment")
